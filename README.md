@@ -23,4 +23,6 @@ open index.html in default browser
 content is not in a fixed position, boxes become misaligned when zoomed too far in or out of web broswer
 content is not in a fixed position, text overflows out of blocks when width of window is shortened.
 
-# Code Refactor Starter Code
+# preview of appliaction loaded properly
+
+![alt text](./assets/images/web-page-image.png)
