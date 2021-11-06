@@ -1,13 +1,14 @@
+/* this is applying to the enitre page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* this is the body section */
 body {
     background-color: #d9dcd6;
 }
-
+/* This is the header section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,11 +20,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* this is to give the (seon) part of the company name a differnt color */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* these are your quick link at the top of the page */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* the is the text style at the top of the header */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* this is the paragraphs explaining each header */ 
 p {
     font-size: 16px;
 }
-
+/* this is the hero attribute */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* these are aligning the blue boxes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* benefits are the Lead Generations, Brand Awareness and Cost management section */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* The Search Engine Optimization, Online Reputation Management and Social Media Market section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* this is the footer section */
 .footer {
     padding: 30px;
     clear: both;
