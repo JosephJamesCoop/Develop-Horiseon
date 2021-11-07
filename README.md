@@ -1,13 +1,13 @@
-# name of application
+# Name of Application
 Develop-Horiseon
 
-# contirbutors
+# Contirbutors
 Presetup by UofO bootcamp - modified and simplified by Joseph Cooper
 
-# brief Description of application
+# Brief Description of Application
 Advertisement page for web marketing company, Horiseon.
 
-# Technology used
+# Technology Used
 HTML
 CSS
 
@@ -19,10 +19,10 @@ go to https://github.com/JosephJamesCoop/Develop-Horiseon and clone the reposito
 open file titled Develop-Horizon
 open index.html in default browser
 
-# known bugs
+# Known Bugs
 content is not in a fixed position, boxes become misaligned when zoomed too far in or out of web broswer
 content is not in a fixed position, text overflows out of blocks when width of window is shortened.
 
-# preview of appliaction loaded properly
+# Preview of Appliaction Loaded Properly
 
 ![alt text](./assets/images/web-page-image.png)
