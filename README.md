@@ -16,12 +16,12 @@ This is a advertiesment based application, does not include any sign up or canta
 
 # Setup Requirements
 
-click on the link  https://josephjamescoop.github.io/Develop-Horiseon/
+click on the link  https://josephjamescoop.github.io/develop-horiseon/
 
 alternatively you can follow these steps/
 
-go to https://github.com/JosephJamesCoop/Develop-Horiseon and clone the repository
-open file titled Develop-Horizon
+go to https://github.com/JosephJamesCoop/develop-horiseon and clone the repository
+open file titled develop-horizon
 open index.html in default browser
 
 # Known Bugs
