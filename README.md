@@ -15,6 +15,11 @@ CSS
 This is a advertiesment based application, does not include any sign up or cantact links. It is displayed to advertsie and promote Horiseons marketing abilities.
 
 # Setup Requirements
+
+click on the link  https://josephjamescoop.github.io/Develop-Horiseon/
+
+alternatively you can follow these steps/
+
 go to https://github.com/JosephJamesCoop/Develop-Horiseon and clone the repository
 open file titled Develop-Horizon
 open index.html in default browser
