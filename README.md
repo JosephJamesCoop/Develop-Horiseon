@@ -25,4 +25,5 @@ content is not in a fixed position, text overflows out of blocks when width of w
 
 # Preview of Appliaction Loaded Properly
 
+
 ![alt text](./assets/images/web-page-image.png)
